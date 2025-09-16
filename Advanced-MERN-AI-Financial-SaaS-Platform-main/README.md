@@ -2,14 +2,14 @@
 A full-stack SaaS platform for personal finance management with AI-powered receipt scanning and interactive analytics dashboards.
 
 ### Features
-->Transaction CRUD (Create, Read, Update, Delete).
-->Recurring transactions with cron jobs.
-->AI-powered receipt scanning.
-->Analytics dashboards with charts (line, pie).
-->Monthly email reports.
-->Stripe subscription management.
-->Cloudinary image uploads.
-->JWT authentication & role-based access.
+->Transaction CRUD (Create, Read, Update, Delete).<br>
+->Recurring transactions with cron jobs.<br>
+->AI-powered receipt scanning.<br>
+->Analytics dashboards with charts (line, pie).<br>
+->Monthly email reports.<br>
+->Stripe subscription management.<br>
+->Cloudinary image uploads.<br>
+->JWT authentication & role-based access.<br>
 
 
 ### TechStack
